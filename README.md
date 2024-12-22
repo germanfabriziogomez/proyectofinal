@@ -52,7 +52,7 @@ Este proyecto es una aplicación web donde los usuarios pueden compartir sus rec
 
 1. **Clonar el repositorio:**
 
-   git clone https://github.com/tu-usuario/proyectofinal.git
+   git clone https://github.com/germanfabriziogomez/proyectofinal.git
 
 2. **Acceder a la carpeta del proyecto haciendo "cd app"
 3. Ejecutar el proyecto: Pone a correr el proyecto con el comando "npm run dev" 
